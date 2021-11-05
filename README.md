@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://matjag3.github.io/Parkirozrywki/ 
-- Google Sheets template https://docs.google.com/spreadsheets/d/1gyrpdVsA7sc6h7288Mu61pXQh4NuHNJ-/edit#gid=1053407765
+- Google Sheets template https://docs.google.com/spreadsheets/d/1TryzfU7AI6txFyv6rdrWf5FPhymj-cFOoYlzHn3GYtU/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
